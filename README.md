@@ -1,10 +1,11 @@
 # PsycheD (psyched)
+## Description:
 CI/CD Pipeline R&amp;D - Simple Express app code-base using GitHub Actions to support a Hackathon team. 
 
+## Details:
 Ideally, this will lead to SOPs, playbook, tutorials, etc. where a Hackathon team can quickly validate, build and deploy an app using a repeatable process to achieve consistency while retaining and increasing quality.
 
-TODOs:
-```markdown
+## TODOs:
 1. Pipeline Steps
     1. Type Checking
     1. Build to actual end-point <?>
@@ -29,7 +30,6 @@ TODOs:
     1. Do or teach?
     1. Determine Why, When, and How to use GitHub Copilot.
     1. Determine Tiger Team Documentation Standards
-        1. How will we use the IT Guidebook?         
-        1. https://docs.guidehouse.com
-        1. diataxis?  How much?
-```
+        1. How will we use the IT Guidebook at https://docs.guidehouse.com?
+        1. Diataxis (https://diataxis.fr)?  How much?
+
