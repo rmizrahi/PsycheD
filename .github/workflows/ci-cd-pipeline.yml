@@ -29,7 +29,7 @@ jobs:
         run: npm test
 
       - name: Run Snyk Security Scan
-        uses: snyk/actions
+        uses: snyk/actions/node@master
         with:
           args: test
         env:
