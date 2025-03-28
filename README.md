@@ -7,6 +7,7 @@ Ideally, this will lead to SOPs, playbook, tutorials, etc. where a Hackathon tea
 
 ## TODOs:
 1. Pipeline Steps
+    1. Security Scanning - Snyk Community Version?
     1. Type Checking
     1. Build to actual end-point <?>
     1. Need TerraForm build?

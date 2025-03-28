@@ -28,6 +28,13 @@ jobs:
       - name: Run Tests
         run: npm test
 
+      - name: Run Snyk Security Scan
+        uses: snyk/actions
+        with:
+          args: test
+        env:
+          SNYK_TOKEN: ${{ secrets.SNYK_TOKEN }}
+
       - name: Build Docker Image
         run: docker build -t psyched .
 
