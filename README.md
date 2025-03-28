@@ -5,9 +5,12 @@ CI/CD Pipeline R&amp;D - Simple Express app code-base using GitHub Actions to su
 ## Details:
 Ideally, this will lead to SOPs, playbook, tutorials, etc. where a Hackathon team can quickly validate, build and deploy an app using a repeatable process to achieve consistency while retaining and increasing quality.
 
-## TODOs:
+### In Process:
 1. Pipeline Steps
     1. Security Scanning - Snyk Community Version?
+
+## TODOs:
+1. Pipeline Steps
     1. Type Checking
     1. Build to actual end-point <?>
     1. Need TerraForm build?
